@@ -1,6 +1,6 @@
 # python permutação e combinação
 
-## Pequeno programa que cálcula o número de permutações ou combinações possíveis em python
+## Pequeno programa que cálcula o número de permutações ou combinações possíveis de um conjunto em python
 
 ```python
 def fatorial(num):
